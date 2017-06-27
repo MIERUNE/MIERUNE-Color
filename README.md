@@ -13,3 +13,9 @@ var m_color = new L.tileLayer('https://tile.mierune.co.jp/mierune/{z}/{x}/{y}.pn
     attribution: "Maptiles by <a href='http://mierune.co.jp/' target='_blank'>MIERUNE</a>, under CC BY. Data by <a href='http://osm.org/copyright' target='_blank'>OpenStreetMap</a> contributors, under ODbL."
 });
 ```
+
+--- 
+
+![画像](./img/README01.png)  
+
+---

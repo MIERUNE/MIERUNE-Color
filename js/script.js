@@ -3,8 +3,8 @@ var m_color = new L.tileLayer('https://tile.mierune.co.jp/mierune/{z}/{x}/{y}.pn
 });
 
 var map = L.map('map', {
-    center: [35.681,139.763],
-    zoom: 14,
+    center: [35.650,139.810],
+    zoom: 13,
     zoomControl: true,
     layers: [m_color]
 });
